@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**NodeValidatorVN/NodeValidatorVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luu from Validator VN, All about me: https://linktr.ee/validatorvn
 
-Here are some ideas to get you started:
+My local server:
+- Dual Xeon E5 2680V4
+- Ram: 128GB ram ECC
+- SSD: 12TB NVMe
+- PSU: 750W
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Validator mainnet: 
+- Shentu chain
+- Fetch.ai
+- Aura Network
+
+Validator testnet:
+- Celestia
+- Dymension
+- Aptos
+- Sui network
+- etc...
