@@ -12,10 +12,12 @@ Validator mainnet:
 - Shentu chain
 - Fetch.ai
 - Aura Network
+- Cosmos Hub
 
 Validator testnet:
 - Celestia
 - Dymension
 - Aptos
 - Sui network
+- Archway
 - etc...
