@@ -13,11 +13,17 @@ Validator mainnet:
 - Fetch.ai
 - Aura Network
 - Cosmos Hub
+- Goracle
 
 Validator testnet:
 - Celestia
-- Dymension
+- Dymension: 
 - Aptos
 - Sui network
 - Archway
-- etc...
+- Ojjo
+- Arkeo
+- Andromeda
+- Subspace
+- Exzo Network
+- Cess Network
