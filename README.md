@@ -3,7 +3,7 @@
 I'm Luu from Validator VN, All about me: https://linktr.ee/validatorvn
 
 My local server:
-- Chip: Ryzen 5950x (Am4)
+- Chip: Ryzen 9 5950x (Am4)
 - Mainboard: Asus Pro WS X570-ACE
 - Ram: 128GB ECC DDR4
 - VGA: No
@@ -12,6 +12,7 @@ My local server:
 - PSU: 500W 80gold
 - AIO ID colling zoomflow 240-xt
 - Case: Milk LV12 Black
+- Lan: 1Gbps
 
 Validator mainnet: 
 - Shentu chain: https://ping.pub/shentu/staking/shentuvaloper1xcyhwqussp9u6ul272ugfnqpq044m302fk55hv
@@ -21,7 +22,7 @@ Validator mainnet:
 - Goracle: https://app.goracle.io/validators/v2
 - Persistence: https://ping.pub/persistence/staking/persistencevaloper1mr3u4plp9k555wtp0lrc9nvnhexmkyjkn3cal0
 - Band Protocol: https://ping.pub/band/staking/bandvaloper1jf2rqyr2ud20asyzscvrzh65s234eycx86lzcn
-- Agoric: https://agoric.explorers.guru/validator/agoricvaloper1etsv4zkw0qe5rplyhq4mc3mf3adm0k6mntjf6v
+- Agoric: https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1etsv4zkw0qe5rplyhq4mc3mf3adm0k6mntjf6v
   
 Validator testnet:
 - Celestia
