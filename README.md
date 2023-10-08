@@ -16,6 +16,7 @@ Validator mainnet:
 - Goracle: https://app.goracle.io/validators/v2
 - Persistence: https://ping.pub/persistence/staking/persistencevaloper1mr3u4plp9k555wtp0lrc9nvnhexmkyjkn3cal0
 - Band Protocol: https://ping.pub/band/staking/bandvaloper1jf2rqyr2ud20asyzscvrzh65s234eycx86lzcn
+- Agoric: https://agoric.explorers.guru/validator/agoricvaloper1etsv4zkw0qe5rplyhq4mc3mf3adm0k6mntjf6v
   
 Validator testnet:
 - Celestia
