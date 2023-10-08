@@ -3,10 +3,15 @@
 I'm Luu from Validator VN, All about me: https://linktr.ee/validatorvn
 
 My local server:
-- Dual Xeon E5 2680V4
-- Ram: 128GB ram ECC
-- SSD: 12TB NVMe
-- PSU: 750W
+- Chip: Ryzen 5950x (Am4)
+- Mainboard: Asus Pro WS X570-ACE
+- Ram: 128GB ECC DDR4
+- VGA: No
+- NVMe: 500GB Gen 3 x10
+- PCie: Hyper M2 x16 Gen 4 Card x2
+- PSU: 500W 80gold
+- AIO ID colling zoomflow 240-xt
+- Case: Milk LV12 Black
 
 Validator mainnet: 
 - Shentu chain: https://ping.pub/shentu/staking/shentuvaloper1xcyhwqussp9u6ul272ugfnqpq044m302fk55hv
