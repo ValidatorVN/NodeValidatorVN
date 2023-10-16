@@ -23,6 +23,7 @@ Validator mainnet:
 - Persistence: https://ping.pub/persistence/staking/persistencevaloper1mr3u4plp9k555wtp0lrc9nvnhexmkyjkn3cal0
 - Band Protocol: https://ping.pub/band/staking/bandvaloper1jf2rqyr2ud20asyzscvrzh65s234eycx86lzcn
 - Agoric: https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1etsv4zkw0qe5rplyhq4mc3mf3adm0k6mntjf6v
+- Tenet: https://tenet.explorers.guru/validator/tenetvaloper18l3d5cy52ytpmafu6lm4kjszs4g8kefe29hw5a
   
 Validator testnet:
 - Celestia
