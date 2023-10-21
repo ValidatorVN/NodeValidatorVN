@@ -7,8 +7,8 @@ My local server:
 - Mainboard: Asus Pro WS X570-ACE
 - Ram: 128GB ECC DDR4
 - VGA: No
-- NVMe: 500GB Gen 3 x10
-- PCie: Hyper M2 x16 Gen 4 Card x2
+- NVMe: 500GB Gen4 x10
+- PCie: Hyper M2 x16 Gen4 Card x2
 - PSU: 500W 80gold
 - AIO ID colling zoomflow 240-xt
 - Case: Milk LV12 Black
@@ -24,6 +24,7 @@ Validator mainnet:
 - Band Protocol: https://ping.pub/band/staking/bandvaloper1jf2rqyr2ud20asyzscvrzh65s234eycx86lzcn
 - Agoric: https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1etsv4zkw0qe5rplyhq4mc3mf3adm0k6mntjf6v
 - Tenet: https://tenet.explorers.guru/validator/tenetvaloper18l3d5cy52ytpmafu6lm4kjszs4g8kefe29hw5a
+- Astra Protocol: https://ping.astranaut.io/astra/staking/astravaloper1lhcm704xer759m435z0qy5sfgv44aeyrnkfuem
   
 Validator testnet:
 - Celestia
