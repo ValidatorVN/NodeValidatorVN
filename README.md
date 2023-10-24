@@ -10,8 +10,6 @@ My local server:
 - NVMe: 500GB Gen4 x10
 - PCie: Hyper M2 x16 Gen4 Card x2
 - PSU: 500W 80gold
-- AIO ID colling zoomflow 240-xt
-- Case: Milk LV12 Black
 - Lan: 1Gbps
 
 Validator mainnet: 
