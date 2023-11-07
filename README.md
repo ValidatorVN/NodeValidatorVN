@@ -36,3 +36,6 @@ Validator testnet:
 - Subspace
 - Exzo Network
 - Cess Network
+- Namada
+- Entangle
+- Selfchain
