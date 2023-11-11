@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luu from Validator VN, All about me: https://linktr.ee/validatorvn
+Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2023, All about me: https://linktr.ee/validatorvn
 
 My local server:
 - Chip: Ryzen 9 5950x (Am4)
