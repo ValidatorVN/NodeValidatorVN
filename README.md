@@ -23,6 +23,7 @@ Validator mainnet:
 - Agoric: https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1etsv4zkw0qe5rplyhq4mc3mf3adm0k6mntjf6v
 - Tenet: https://tenet.explorers.guru/validator/tenetvaloper18l3d5cy52ytpmafu6lm4kjszs4g8kefe29hw5a
 - Astra Protocol: https://ping.astranaut.io/astra/staking/astravaloper1lhcm704xer759m435z0qy5sfgv44aeyrnkfuem
+- Archway: https://www.mintscan.io/archway/validators/archwayvaloper1pefmcgfhkg4cdn8wzjmve6evjlsth4jg9tdvz4
   
 Validator testnet:
 - Celestia
