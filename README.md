@@ -4,17 +4,12 @@ Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active
 
 Please note that below is the official list of information about Node & Validator:
 
-Gitbook: http://docs.validatorvn.com
-Website: http://validatorvn.com
-Kindly use English this gruop, mate!
-Telegram: http://t.me/ValidatorVN
-Github: http://github.com/NodeValidatorVN
-X: http://x.com/NodeValidatorVN
-Stake: http://linktr.ee/validatorvn
-
-Guide Run Node: http://github.com/NodeValidatorV…
-Digital Ocean: http://bit.ly/DigitalOcean200
-Hetzner: http://bit.ly/HetznerVPS
+- Gitbook: http://docs.validatorvn.com
+- Website: http://validatorvn.com
+- Telegram: http://t.me/ValidatorVN
+- Github: http://github.com/NodeValidatorVN
+- X: http://x.com/NodeValidatorVN
+- Stake: http://linktr.ee/validatorvn
 
 My local server:
 - Chip: Ryzen 9 5950x (Am4)
