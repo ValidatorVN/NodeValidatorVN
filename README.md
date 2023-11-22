@@ -1,18 +1,31 @@
 ### Hi there 👋
 
-Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2023, All about me: https://linktr.ee/validatorvn
+Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2023, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.
+
+Please note that below is the official list of information about Node & Validator:
+
+Gitbook: http://docs.validatorvn.com
+Website: http://validatorvn.com
+Kindly use English this gruop, mate!
+Telegram: http://t.me/ValidatorVN
+Github: http://github.com/NodeValidatorVN
+X: http://x.com/NodeValidatorVN
+Stake: http://linktr.ee/validatorvn
+
+Guide Run Node: http://github.com/NodeValidatorV…
+Digital Ocean: http://bit.ly/DigitalOcean200
+Hetzner: http://bit.ly/HetznerVPS
 
 My local server:
 - Chip: Ryzen 9 5950x (Am4)
 - Mainboard: Asus Pro WS X570-ACE
 - Ram: 128GB ECC DDR4
 - VGA: No
-- NVMe: 500GB Gen4 x10
-- PCie: Hyper M2 x16 Gen4 Card x2
+- NVMe: 5TB NVMe
 - PSU: 500W 80gold
 - Lan: 1Gbps
 
-Validator mainnet: 
+**Validator mainnet:**
 - Shentu chain: https://ping.pub/shentu/staking/shentuvaloper1xcyhwqussp9u6ul272ugfnqpq044m302fk55hv
 - Fetch.ai: https://ping.pub/fetchhub/staking/fetchvaloper17ua9glfvdxh3p8dexf88w9ydlgtfmneg0qtdq6
 - Aura Network: https://ping.pub/aura/staking/auravaloper1qfqr8vjjsvuf7qp0r7vsxjryfgmgxgauhcyteg
@@ -24,8 +37,9 @@ Validator mainnet:
 - Tenet: https://tenet.explorers.guru/validator/tenetvaloper18l3d5cy52ytpmafu6lm4kjszs4g8kefe29hw5a
 - Astra Protocol: https://ping.astranaut.io/astra/staking/astravaloper1lhcm704xer759m435z0qy5sfgv44aeyrnkfuem
 - Archway: https://www.mintscan.io/archway/validators/archwayvaloper1pefmcgfhkg4cdn8wzjmve6evjlsth4jg9tdvz4
+- DYDX https://ping.pub/dydx/staking/dydxvaloper1xjkn8tns3ku8zke8d976qlhux5x9rppv0dj2n3
   
-Validator testnet:
+**Validator testnet:**
 - Celestia
 - Dymension: 
 - Aptos
