@@ -33,6 +33,7 @@ My local server:
 - Astra Protocol: https://ping.astranaut.io/astra/staking/astravaloper1lhcm704xer759m435z0qy5sfgv44aeyrnkfuem
 - Archway: https://www.mintscan.io/archway/validators/archwayvaloper1pefmcgfhkg4cdn8wzjmve6evjlsth4jg9tdvz4
 - DYDX https://ping.pub/dydx/staking/dydxvaloper1xjkn8tns3ku8zke8d976qlhux5x9rppv0dj2n3
+- Injective: https://www.mintscan.io/injective/validators/injvaloper1nc9ppgynj4fxqlsxq62sh4zfvf59la6rkjy734
   
 **Validator testnet:**
 - Celestia
