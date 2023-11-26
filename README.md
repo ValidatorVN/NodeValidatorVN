@@ -20,6 +20,16 @@ My local server:
 - PSU: 500W 80gold
 - Lan: 1Gbps
 
+My Dedicated Server:
+- AMD Ryzen™ 9 7950X3D Simultaneous Multithreading
+- RAM:	128 GB DDR5 ECC
+- Disk:	2 x 1.92 TB NVMe SSD Datacenter Edition (Gen4) (software RAID 1)
+- Connection:	1 GBit/s port
+- Bandwidth guaranteed:	1 GBit/s
+- Backup Space:	100 GB
+- Traffic:	Unlimited *
+- Location: Germany
+  
 **Validator mainnet:**
 - Shentu chain: https://ping.pub/shentu/staking/shentuvaloper1xcyhwqussp9u6ul272ugfnqpq044m302fk55hv
 - Fetch.ai: https://ping.pub/fetchhub/staking/fetchvaloper17ua9glfvdxh3p8dexf88w9ydlgtfmneg0qtdq6
