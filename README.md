@@ -11,15 +11,6 @@ Please note that below is the official list of information about Node & Validato
 - X: http://x.com/NodeValidatorVN
 - Stake: http://linktr.ee/validatorvn
 
-My local server:
-- Chip: Ryzen 9 5950x (Am4)
-- Mainboard: Asus Pro WS X570-ACE
-- Ram: 128GB ECC DDR4
-- VGA: No
-- NVMe: 5TB NVMe
-- PSU: 500W 80gold
-- Lan: 1Gbps
-
 My Dedicated Server:
 - AMD Ryzen™ 9 7950X3D Simultaneous Multithreading
 - RAM:	128 GB DDR5 ECC
@@ -43,6 +34,8 @@ My Dedicated Server:
 - Archway: https://www.mintscan.io/archway/validators/archwayvaloper1pefmcgfhkg4cdn8wzjmve6evjlsth4jg9tdvz4
 - DYDX https://ping.pub/dydx/staking/dydxvaloper1xjkn8tns3ku8zke8d976qlhux5x9rppv0dj2n3
 - Injective: https://www.mintscan.io/injective/validators/injvaloper1nc9ppgynj4fxqlsxq62sh4zfvf59la6rkjy734
+- Blockx: https://ping.blockxnet.com/blockx/staking/blockxvaloper1hw7s2lqnm3hvlucnvxly8hq2cjuhetfswk8k3c
+- Andromeda: https://andromeda.exploreme.pro/validator/andrvaloper1ydfa203nk82s89maagkvlhs0a4tj2qyu4m4l54
   
 **Validator testnet:**
 - Celestia
@@ -59,3 +52,10 @@ My Dedicated Server:
 - Namada
 - Entangle
 - Selfchain
+- Blockx
+- Pryzm
+- Nulink
+- CrowdControl
+- Autonity
+- Union
+- 
