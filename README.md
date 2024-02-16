@@ -36,6 +36,7 @@ My Dedicated Server:
 - Injective: https://www.mintscan.io/injective/validators/injvaloper1nc9ppgynj4fxqlsxq62sh4zfvf59la6rkjy734
 - Blockx: https://ping.blockxnet.com/blockx/staking/blockxvaloper1hw7s2lqnm3hvlucnvxly8hq2cjuhetfswk8k3c
 - Andromeda: https://andromeda.exploreme.pro/validator/andrvaloper1ydfa203nk82s89maagkvlhs0a4tj2qyu4m4l54
+- ZetaChain: https://explorer.zetachain.com/address/0x426b9744A61A2EC97105829b7ee4eDF56dD0E45a
   
 **Validator testnet:**
 - Celestia
