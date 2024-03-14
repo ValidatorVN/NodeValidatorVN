@@ -4,7 +4,7 @@ Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active
 
 Please note that below is the official list of information about Node & Validator:
 
-- Gitbook: http://docs.validatorvn.com
+- Services: http://services.validatorvn.com
 - Website: http://validatorvn.com
 - Telegram: http://t.me/ValidatorVN
 - Github: http://github.com/NodeValidatorVN
